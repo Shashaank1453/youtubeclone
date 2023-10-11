@@ -1,0 +1,176 @@
+{
+    "kind": "youtube#searchListResponse",
+    "nextPageToken": "CAUQAA",
+    "regionCode": "DE",
+    "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 5
+    },
+    "items": [
+      {
+        "kind": "youtube#searchResult",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "4kLviL8XwAI"
+        },
+        "snippet": {
+          "publishedAt": "2023-01-16T11:42:39Z",
+          "channelId": "UCwVQIkAtyZzQSA-OY1rsGig",
+          "title": "Music for Work — Programming, Hacking, Coding Radio",
+          "description": "Night Work Radio is a perfect mix of music for deep concentration, this stream is made to keep your brain active and your mind ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4kLviL8XwAI/default_live.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4kLviL8XwAI/mqdefault_live.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4kLviL8XwAI/hqdefault_live.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chill Music Lab",
+          "liveBroadcastContent": "live",
+          "publishTime": "2023-01-16T11:42:39Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "M5QY2_8704o"
+        },
+        "snippet": {
+          "publishedAt": "2019-12-22T17:16:51Z",
+          "channelId": "UCwVQIkAtyZzQSA-OY1rsGig",
+          "title": "Chillstep Music for Programming / Cyber / Coding",
+          "description": "Could music boost your coding performance? Monotonous keyboard clicks can make you lose your train of thought. Our minds ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/M5QY2_8704o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/M5QY2_8704o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/M5QY2_8704o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Chill Music Lab",
+          "liveBroadcastContent": "none",
+          "publishTime": "2019-12-22T17:16:51Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "WR1ydijTx5E"
+        },
+        "snippet": {
+          "publishedAt": "2023-06-13T18:52:08Z",
+          "channelId": "UCQTmoQ_S26PlmDoXujZpbYQ",
+          "title": "How I Learned to Code in 4 Months &amp; Got a Job! (No CS Degree, No Bootcamp)",
+          "description": "I went from being a college dropout with zero technical skills to landing a software developer job in 4 months. This video is about ...",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WR1ydijTx5E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WR1ydijTx5E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WR1ydijTx5E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Tim Kim",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-06-13T18:52:08Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "3fkP88FDgaI"
+        },
+        "snippet": {
+          "publishedAt": "2022-09-10T17:53:10Z",
+          "channelId": "UCqU0K6Cvo2Q2fZE_Njbx24g",
+          "title": "coding is shockingly uncomplicated",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3fkP88FDgaI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3fkP88FDgaI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3fkP88FDgaI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Brian Xu",
+          "liveBroadcastContent": "none",
+          "publishTime": "2022-09-10T17:53:10Z"
+        }
+      },
+      {
+        "kind": "youtube#searchResult",
+        "id": {
+          "kind": "youtube#video",
+          "videoId": "GnXVvZ-j0_k"
+        },
+        "snippet": {
+          "publishedAt": "2023-09-25T15:38:48Z",
+          "channelId": "UC4xKdmAXFh4ACyhpiQ_3qBw",
+          "title": "The Fall of Coding... is programming dead in 2023?",
+          "description": "Ex-Google TechLead on the fall of software engineering. Ace your coding interviews with ex-Google/ex-Facebook training.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GnXVvZ-j0_k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GnXVvZ-j0_k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GnXVvZ-j0_k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "TechLead",
+          "liveBroadcastContent": "none",
+          "publishTime": "2023-09-25T15:38:48Z"
+        }
+      }
+    ]
+  }
