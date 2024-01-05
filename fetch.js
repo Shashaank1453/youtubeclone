@@ -11,6 +11,7 @@ const options = {
   data: {
     messages: [
       {
+        a:'n'
         role: 'user',
         content: 'i have to conduct an API workshop, any tips for me?'
       }
